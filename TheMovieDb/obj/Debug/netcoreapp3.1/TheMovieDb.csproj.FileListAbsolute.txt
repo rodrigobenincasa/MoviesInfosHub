@@ -1,0 +1,11 @@
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\TheMovieDb\bin\Debug\netcoreapp3.1\TheMovieDb.exe
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\TheMovieDb\bin\Debug\netcoreapp3.1\TheMovieDb.deps.json
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\TheMovieDb\bin\Debug\netcoreapp3.1\TheMovieDb.runtimeconfig.json
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\TheMovieDb\bin\Debug\netcoreapp3.1\TheMovieDb.runtimeconfig.dev.json
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\TheMovieDb\bin\Debug\netcoreapp3.1\TheMovieDb.dll
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\TheMovieDb\bin\Debug\netcoreapp3.1\TheMovieDb.pdb
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\TheMovieDb\obj\Debug\netcoreapp3.1\TheMovieDb.csprojAssemblyReference.cache
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\TheMovieDb\obj\Debug\netcoreapp3.1\TheMovieDb.AssemblyInfoInputs.cache
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\TheMovieDb\obj\Debug\netcoreapp3.1\TheMovieDb.AssemblyInfo.cs
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\TheMovieDb\obj\Debug\netcoreapp3.1\TheMovieDb.dll
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\TheMovieDb\obj\Debug\netcoreapp3.1\TheMovieDb.pdb

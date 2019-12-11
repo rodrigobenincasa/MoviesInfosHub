@@ -1,0 +1,53 @@
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.json
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.dev.json
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\DataAccess\bin\Debug\netcoreapp2.1\DataBase.dll
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\DataAccess\bin\Debug\netcoreapp2.1\DataBase.pdb
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.json
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.dev.json
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataBase.dll
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataBase.pdb
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
+D:\projects\TheMovieDb\directors\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+D:\projects\TheMovieDb\directors\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.json
+D:\projects\TheMovieDb\directors\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.dev.json
+D:\projects\TheMovieDb\directors\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+D:\projects\TheMovieDb\directors\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+D:\projects\TheMovieDb\directors\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataBase.dll
+D:\projects\TheMovieDb\directors\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataBase.pdb
+D:\projects\TheMovieDb\directors\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+D:\projects\TheMovieDb\directors\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\projects\TheMovieDb\directors\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+D:\projects\TheMovieDb\directors\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+D:\projects\TheMovieDb\directors\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+D:\projects\TheMovieDb\directors\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+D:\projects\TheMovieDb\directors\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.json
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.dev.json
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataBase.dll
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\DataAccess\bin\Debug\netcoreapp2.1\DataBase.pdb
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete

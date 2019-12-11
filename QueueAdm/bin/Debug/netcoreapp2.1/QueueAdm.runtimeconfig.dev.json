@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\marketdata26\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\marketdata26\\.nuget\\packages"
+    ]
+  }
+}

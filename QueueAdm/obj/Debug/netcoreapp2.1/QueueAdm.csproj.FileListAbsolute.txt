@@ -1,0 +1,53 @@
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.deps.json
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.runtimeconfig.json
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.runtimeconfig.dev.json
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.dll
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.pdb
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\QueueAdm\bin\Debug\netcoreapp2.1\DataBase.dll
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\QueueAdm\bin\Debug\netcoreapp2.1\DataBase.pdb
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.csprojAssemblyReference.cache
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.AssemblyInfoInputs.cache
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.AssemblyInfo.cs
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.csproj.CopyComplete
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.dll
+C:\Users\marketdata26\Documents\Codes\TheMovieDb\Etl\TheMovieDb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.pdb
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.deps.json
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.runtimeconfig.json
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.runtimeconfig.dev.json
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.dll
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.pdb
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\DataBase.dll
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\DataBase.pdb
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.csprojAssemblyReference.cache
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.AssemblyInfoInputs.cache
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.AssemblyInfo.cs
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.csproj.CopyComplete
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.dll
+C:\Users\marketdata26\Documents\Codes\Stone\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.pdb
+D:\projects\TheMovieDb\directors\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.deps.json
+D:\projects\TheMovieDb\directors\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.runtimeconfig.json
+D:\projects\TheMovieDb\directors\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.runtimeconfig.dev.json
+D:\projects\TheMovieDb\directors\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.dll
+D:\projects\TheMovieDb\directors\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.pdb
+D:\projects\TheMovieDb\directors\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\DataBase.dll
+D:\projects\TheMovieDb\directors\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\DataBase.pdb
+D:\projects\TheMovieDb\directors\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.csprojAssemblyReference.cache
+D:\projects\TheMovieDb\directors\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.csproj.CoreCompileInputs.cache
+D:\projects\TheMovieDb\directors\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.AssemblyInfoInputs.cache
+D:\projects\TheMovieDb\directors\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.AssemblyInfo.cs
+D:\projects\TheMovieDb\directors\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.csproj.CopyComplete
+D:\projects\TheMovieDb\directors\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.dll
+D:\projects\TheMovieDb\directors\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.pdb
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.csprojAssemblyReference.cache
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.AssemblyInfoInputs.cache
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.AssemblyInfo.cs
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.dll
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.pdb
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.deps.json
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.runtimeconfig.json
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.runtimeconfig.dev.json
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.dll
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\QueueAdm.pdb
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\DataBase.dll
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\QueueAdm\bin\Debug\netcoreapp2.1\DataBase.pdb
+C:\Users\marketdata26\Desktop\New folder\TheMovieDb\themoviedb\QueueAdm\obj\Debug\netcoreapp2.1\QueueAdm.csproj.CopyComplete
